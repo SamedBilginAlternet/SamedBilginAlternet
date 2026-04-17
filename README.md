@@ -1,4 +1,4 @@
-# Hi there, I'm Samed Bilgin 👋 🇹🇷
+
 
 I am a **Full Stack Software Engineer** and **Computer Engineering Master's Student** based in Istanbul. I specialize in building robust backend architectures, scalable microservices, and high-performance mobile applications.
 
